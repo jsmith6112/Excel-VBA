@@ -1,2 +1,2 @@
-# Repository-1
-Homework assignment for week 1
+# Excel-VBA
+Homework assignment for Excel-VBA
