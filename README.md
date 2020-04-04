@@ -1,2 +1,3 @@
-# Excel-VBA
+# VBA-Challenge
 Homework assignment for Excel-VBA
+ 
